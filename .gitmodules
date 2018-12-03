@@ -1,0 +1,6 @@
+[submodule "big_day_mobile"]
+	path = big_day_mobile
+	url = https://github.com/okeefem2/big_day_mobile.git
+[submodule "big-day-api"]
+	path = big-day-api
+	url = https://github.com/okeefem2/big-day-api.git
