@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "bin/main.dart",
+            "program": "big_day_mobile/lib/main.dart",
             "request": "launch",
             "type": "dart"
         }
